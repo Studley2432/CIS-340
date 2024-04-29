@@ -1,12 +1,6 @@
 import React from 'react';
 import { Text, View, FlatList } from 'react-native';
 
-const dog = {
-  uri: 'https://www.princeton.edu/sites/default/files/styles/1x_full_2x_half_crop/public/images/2022/02/KOA_Nassau_2697x1517.jpg?itok=Bg2K7j7J',
-  width: 128,
-  height: 128
-
-}
 
 export default StatesApp = () => {
   return (
